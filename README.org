@@ -1,0 +1,3 @@
+* next-spec-day
+
+Advanced date handling for scheduled tasks in org-mode

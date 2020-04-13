@@ -86,3 +86,5 @@
 (add-hook 'org-after-todo-state-change-hook 'next-spec-day)
 (unless (fboundp 'read-from-whole-string) (require 'thingatpt))
 (unless (fboundp 'calendar-last-day-of-month) (require 'thingatpt))
+
+(provide 'next-spec-day)

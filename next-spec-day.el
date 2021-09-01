@@ -1,4 +1,4 @@
-;;; next-spec-day.el -*- lexical-binding: t; -*-
+;;; next-spec-day.el
 ;;
 ;;; Commentary:
 ;; Refer to README.org for documentation
